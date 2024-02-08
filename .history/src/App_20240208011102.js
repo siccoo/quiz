@@ -1,5 +1,5 @@
 import React from 'react';
-import QuizQuestionSubmission from './components/QuizQuestionSubmission';
+import QuizQuestionSubmission from './';
 
 function App() {
   return (

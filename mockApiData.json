@@ -1,0 +1,82 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "questionText": "What is the capital of France?",
+            "options": [
+                "Berlin",
+                "Paris",
+                "Madrid",
+                "Rome"
+            ],
+            "correctAnswer": "Paris",
+            "difficulty": "easy",
+            "subject": "Geography"
+        },
+        {
+            "id": 2,
+            "questionText": "Which planet is known as the Red Planet?",
+            "options": [
+                "Earth",
+                "Mars",
+                "Jupiter",
+                "Venus"
+            ],
+            "correctAnswer": "Mars",
+            "difficulty": "medium",
+            "subject": "Science"
+        },
+        {
+            "id": 3,
+            "questionText": "Who wrote 'Romeo and Juliet'?",
+            "options": [
+                "Charles Dickens",
+                "William Shakespeare",
+                "Jane Austen",
+                "Mark Twain"
+            ],
+            "correctAnswer": "William Shakespeare",
+            "difficulty": "hard",
+            "subject": "Literature"
+        },
+        {
+            "id": 4,
+            "questionText": "What is the largest mammal on Earth?",
+            "options": [
+                "Elephant",
+                "Blue Whale",
+                "Giraffe",
+                "Hippopotamus"
+            ],
+            "correctAnswer": "Blue Whale",
+            "difficulty": "medium",
+            "subject": "Biology"
+        },
+        {
+            "id": 5,
+            "questionText": "In which year did World War II end?",
+            "options": [
+                "1943",
+                "1944",
+                "1945",
+                "1946"
+            ],
+            "correctAnswer": "1945",
+            "difficulty": "hard",
+            "subject": "History"
+        },
+        {
+            "id": 6,
+            "questionText": "What is the currency of Japan?",
+            "options": [
+                "Won",
+                "Yuan",
+                "Yen",
+                "Ringgit"
+            ],
+            "correctAnswer": "Yen",
+            "difficulty": "easy",
+            "subject": "Economics"
+        }
+    ]
+}
